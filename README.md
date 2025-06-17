@@ -15,7 +15,7 @@ La Cartografía es la disciplina de las Ciencias Geográficas que se ocupa de la
 
 El Instituto Geográfico Nacional (IGN) es el Organismo Nacional responsable de la elaboración y actualización de la cartografía básica del territorio argentino. Desde comienzos del siglo XX ha trabajado activamente en el desarrollo de la producción de cartografía oficial en escalas 1.50.000, 1:100.000, 1:250.000 y 1:500.000, además de diversos mapas nacionales y provinciales en formatos especiales.
 
-###La evolución de la producción cartográfica 
+### La evolución de la producción cartográfica 
 
 La necesidad de contar con una carta topográfica de la República Argentina que permitiera el traslado de la línea de la frontera sur (acción que fuera denominada “Campaña al Desierto”), el desplazamiento de tropas, el levantamiento de fortines, el establecimiento de telégrafos y la fundación de pueblos, dio origen a la creación de la Oficina Topográfica Militar, el 5 de diciembre de 1879.
 
